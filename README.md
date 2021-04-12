@@ -14,6 +14,7 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 - [ ] *Manutenção e evolução*
 
 
+
 ## Linguagens 
 
 - [Golang](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/GolangSecurity.md)
