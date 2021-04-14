@@ -6,12 +6,12 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 
 </p>
 
-- [ ] *Planejamento*
-- [ ] *Design*
-- [ ] *Desenvolvimento*
-- [ ] *Testes*
-- [ ] *Deploy*
-- [ ] *Manutenção e evolução*
+- [ :white_check_mark: ] *Planejamento*
+- [ :white_check_mark: ] *Design*
+- [ :white_check_mark: ] *Desenvolvimento*
+- [ :white_check_mark: ] *Testes*
+- [ :white_check_mark: ] *Deploy*
+- [ :white_check_mark: ] *Manutenção e evolução*
 
 
 
