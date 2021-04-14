@@ -18,6 +18,7 @@ Ferramentas opensource:
     > Codesec
     > Horusec
     > LGTM
+    > ScoutSuite
 
 Ferramentas pagas:
 
