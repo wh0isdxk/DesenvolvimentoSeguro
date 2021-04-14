@@ -25,5 +25,8 @@ Podemos incluir alguns controles que contribuirão para que o nosso código seja
 
 O uso de Frameworks e Bibliotecas seguras, e também sempre mantê-las atualizadas afim de evitar novas vulnerabilidades. 
 
-Garantir a política de mínimo acesso, e que esse acesso seja seguro, ao Banco de Dados. Aqui também vale ressaltar que, se há o tráfego desses dados, é importante que eles sejam feitos de forma segura, encriptados.
+Garantir a política de mínimo acesso, e que esse acesso seja seguro, ao Banco de Dados. Aqui também vale ressaltar que, se há o tráfego desses dados, é importante que eles sejam feitos de forma segura, encriptados. Aqui vale ressaltar também, que o código fonte deve estar em um lugar seguro e é importsnte validar que não há nenhum escape de dados. 
 
+Outro ponto é a implementação de logs de segurança e monitoramento, além de garantir o controle de performance, você passa a ter visibilidade do seu sistema, dessa forma detectando qualquer comportamento estranho e/ou pessoas más intencionadas que possam tentar subir códigos maliciosos. 
+
+O tratamento de erros e excessões também é um tópico importante, se ele não for feito da maneira correta, uma pessoa pode facilmente detectar o problema e tentar escalar alguma vulnerabilidade em cima disso. 
