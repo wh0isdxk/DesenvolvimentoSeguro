@@ -30,3 +30,20 @@ Garantir a política de mínimo acesso, e que esse acesso seja seguro, ao Banco 
 Outro ponto é a implementação de logs de segurança e monitoramento, além de garantir o controle de performance, você passa a ter visibilidade do seu sistema, dessa forma detectando qualquer comportamento estranho e/ou pessoas más intencionadas que possam tentar subir códigos maliciosos. 
 
 O tratamento de erros e excessões também é um tópico importante, se ele não for feito da maneira correta, uma pessoa pode facilmente detectar o problema e tentar escalar alguma vulnerabilidade em cima disso. 
+
+Trazendo em tópicos, seguem as checklists da OWASP que trazem pontos super importantes para validação em cada etapa. 
+
+- Controle de Acessos 
+- Validação dos Dados de Entrada
+- Validação dos Dados de Saída 
+- Autenticação e Gerenciamento de Credenciais 
+- Gerenciamento de Sessões 
+- Práticas de Criptografia
+- Tratamento de Erros e Log
+- Proteção de Dados 
+- Segurança nas Comunicações
+- Configuração do Sistema 
+- Segurança em Banco de Dados 
+- Gerenciamento de Arquivos 
+- Gerenciamento de Memória 
+- Práticas Gerais de Codificação
