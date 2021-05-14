@@ -20,7 +20,8 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 > 
 > - O software e sua informação associada;
 > - O sistema operacional dos servidores associados;
-> - A base de dados do backendOutras aplicações em um ambiente compartilhado;
+> - A base de dados do backend
+> - Outras aplicações em um ambiente compartilhado;
 > - O sistema do usuário;
 > - Outros softwares com os quais o usuário interage."
   
