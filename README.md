@@ -21,41 +21,35 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 
 <br />
 
-:large_blue_circle: 
-## Planejamento
+### :large_blue_circle:  Planejamento
 
 - Padronização 
 - Threat Model 
 - GDPR e LGPD 
 - Requisitos de Segurança
-
-:green_circle: 
-## Design
+ 
+### :green_circle:  Design
 
 - Padronização
-- Security-by-Design
-
-:orange_circle:   
-## Desenvolvimento/Implementação
+- [Security-by-Design](https://github.com/wh0isdxk/Security-by-Design)
+   
+### :orange_circle: Desenvolvimento/Implementação
 
 - Melhores práticas 
 - Code Review 
 - Checklists 
-
-:red_circle:  
-## Testes
+  
+### :red_circle:  Testes
 
 - SAST e DAST 
 - Pentest 
-
-:yellow_circle:  
-## Deploy
+  
+### :yellow_circle:  Deploy
 
 - Validação dos pontos de Segurança 
 - Testes automatizados
-
-:black_circle:  
-## Manutenção e evolução
+  
+### :black_circle:  Manutenção e evolução
 
 - Monitoramento 
 - Melhorias na Esteira 
@@ -63,23 +57,25 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 - Security Champions 
 - Treinamentos de equipe 
 
-### Roadmap 
+#### Roadmap 
 
-### Links Interessantes 
+#### Links Interessantes 
 - OWASP 
 - NIST SSDF
 
-### Livros 
+#### Livros 
 
-### Cursos 
+#### Cursos 
+- [UDEMY - Desenvolvimento Seguro de Software](https://www.udemy.com/course/desenvolvimento-seguro-de-software/)
+- [UDEMY - Desenvolvimento Seguro de Sotfware Avançado](https://www.udemy.com/course/desenvolvimento-seguro-de-software-avancado/)
 
-### Security Champions 
+#### Security Champions 
 
-### Vídeos 
+#### Vídeos 
 
-### Artigos 
+#### Artigos 
 
-### Linguagens 
+#### Linguagens 
 
 - [Golang](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/GolangSecurity.md)
 - Go 
