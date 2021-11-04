@@ -14,39 +14,74 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 - Na criação de arquiteturas conceituais que possuam erros de lógica;
 - No uso de más práticas de programação que introduzam vulnerabilidades técnicas;
 - Na implementação do software de modo inapropriado;
-- Na inserção de falhas durante a manutenção ou a atualização.
- 
- Além disso, é importante entender que as vulnerabilidades de software podem ter um escopo muito maior  do   que  o   do  próprio   software.   Dependendo   da  natureza  do   software,   da  vulnerabilidade   e  da infraestrutura de apoio, o impacto de uma exploração bem sucedida pode comprometer qualquer um, ou mesmo todos os seguintes aspectos:
- 
-- O software e sua informação associada;
-- O sistema operacional dos servidores associados;
-- A base de dados do backend
-- Outras aplicações em um ambiente compartilhado;
-- O sistema do usuário;
-- Outros softwares com os quais o usuário interage."
+- Na inserção de falhas durante a manutenção ou a atualização."
   
-[OWASP Secure Coding Practices  Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/migrated_content)
+[- OWASP Secure Coding Practices  Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/migrated_content)
 
 
 <br />
 
-:large_blue_circle: *Planejamento*
+:large_blue_circle: 
+## Planejamento
 
-:green_circle: *Design*
+- Padronização 
+- Threat Model 
+- GDPR e LGPD 
+- Requisitos de Segurança
 
-:orange_circle:  *Desenvolvimento/Implementação*
+:green_circle: 
+## Design
 
-:red_circle:  *Testes*
+- Padronização
+- Security-by-Design
 
-:yellow_circle:  *Deploy*
+:orange_circle:   
+## Desenvolvimento/Implementação
 
-:black_circle:  *Manutenção e evolução*
+- Melhores práticas 
+- Code Review 
+- Checklists 
 
+:red_circle:  
+## Testes
 
-## Links Interessantes 
+- SAST e DAST 
+- Pentest 
+
+:yellow_circle:  
+## Deploy
+
+- Validação dos pontos de Segurança 
+- Testes automatizados
+
+:black_circle:  
+## Manutenção e evolução
+
+- Monitoramento 
+- Melhorias na Esteira 
+- Gestão de Vulnerabilidades 
+- Security Champions 
+- Treinamentos de equipe 
+
+### Roadmap 
+
+### Links Interessantes 
 - OWASP 
 - NIST SSDF
 
-## Linguagens 
+### Livros 
+
+### Cursos 
+
+### Security Champions 
+
+### Vídeos 
+
+### Artigos 
+
+### Linguagens 
 
 - [Golang](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/GolangSecurity.md)
+- Go 
+- .NET 
+- Javascript
