@@ -68,10 +68,18 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 #### Cursos 
 - [UDEMY - Desenvolvimento Seguro de Software](https://www.udemy.com/course/desenvolvimento-seguro-de-software/)
 - [UDEMY - Desenvolvimento Seguro de Sotfware Avançado](https://www.udemy.com/course/desenvolvimento-seguro-de-software-avancado/)
+- [GoHacking - Secure Coding and DevSecOps](https://gohacking.com.br/curso/gohacking-secure-coding-and-devsecops)
+- [Coursera - Secure Coding Pratices](https://www.coursera.org/specializations/secure-coding-practices)
 
 #### Security Champions 
+- [Conviso - A cultura do Security Champion em Application Security](https://www.youtube.com/watch?v=-BRG-6eh2bE)
 
 #### Vídeos 
+- [Acadi-TI - Semana do Desenvolvimento Seguro](https://www.youtube.com/watch?v=6Zm5_rcf6EQ)
+- [DevSecOps Podcast - Por que Desenvolvimento Seguro?](https://www.youtube.com/watch?v=95K_fDDUSnc)
+- [GoHacking - Desmistificando Desenvolvimento Seguro e DevSecOps](https://www.youtube.com/watch?v=oZc0SNpdOaI)
+- [Roadsec - OWASP](https://www.youtube.com/watch?v=erwu5LsHJQc)
+- [Conviso - Owasp Top 10 2021, Priorização dos principais riscos e a segurança no design](https://www.youtube.com/watch?v=A0K7f0jDphQ)
 
 #### Artigos 
 
