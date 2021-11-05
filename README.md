@@ -23,14 +23,13 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 
 ### :large_blue_circle:  Planejamento
 
-- Padronização 
-- Threat Model 
-- GDPR e LGPD 
-- Requisitos de Segurança
+- [Threat Model](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/1-Planejamento.md#threat-model)
+- [GDPR e LGPD](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/1-Planejamento.md#gdpr-e-lgpd)
+- [Requisitos de Segurança](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/1-Planejamento.md#requisitos-de-seguran%C3%A7a)
  
 ### :green_circle:  Design
 
-- Padronização
+- [Padronização](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/1-Planejamento.md#padroniza%C3%A7%C3%A3o)
 - [Security-by-Design](https://github.com/wh0isdxk/Security-by-Design)
    
 ### :orange_circle: Desenvolvimento/Implementação
