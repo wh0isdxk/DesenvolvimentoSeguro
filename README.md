@@ -71,6 +71,13 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 - [Coursera - Secure Coding Pratices](https://www.coursera.org/specializations/secure-coding-practices)
 
 #### Security Champions 
+*Textos*
+- [How to build an effective Security Champions Program](https://safecode.org/how-to-build-an-effective-security-champions-program/)
+- [Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)
+- [How to Implement a Security Champions Program](https://www.darkreading.com/careers-and-people/how-to-implement-a-security-champions-program)
+
+*Videos*
+- [BlackHat - SDL at Scale: Growing Security Champions](https://www.youtube.com/watch?v=gpGl3guuyDw)
 - [Conviso - A cultura do Security Champion em Application Security](https://www.youtube.com/watch?v=-BRG-6eh2bE)
 
 #### Vídeos 
