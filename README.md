@@ -53,7 +53,7 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 - Monitoramento 
 - Melhorias na Esteira 
 - Gestão de Vulnerabilidades 
-- Security Champions 
+- [Security Champions](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/SecurityChampions.md#security-champions)
 - Treinamentos de equipe 
 
 #### Roadmap 
