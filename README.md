@@ -34,7 +34,7 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
    
 ### :orange_circle: Desenvolvimento/Implementação
 
-- Melhores práticas 
+- [Melhores práticas](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/3-Desenvolvimento.md#desenvolvimento)
 - Code Review 
 - Checklists 
   
