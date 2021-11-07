@@ -63,6 +63,20 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 - NIST SSDF
 
 #### Livros 
+*PT BR*
+- [Segurança para Desenvolvedores Web](https://www.amazon.com.br/Seguran%C3%A7a-Para-Desenvolvedores-Web-JavaScript/dp/8575224840/ref=sr_1_21?keywords=web+security&qid=1636284781&sprefix=web+se%2Caps%2C208&sr=8-21&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
+- [Código Limpo](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ETDZUTWLKJX7&keywords=codigo+limpo&qid=1636284943&sprefix=codigo+limpo+%2Caps%2C193&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
+- [Arquitetura Limpa](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ETDZUTWLKJX7&keywords=codigo+limpo&qid=1636284980&sprefix=codigo+limpo+%2Caps%2C193&sr=8-2&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
+- [Pentest em Aplicações Web](https://novatec.com.br/livros/pentest-em-aplicacoes-web/)
+
+*ENG*
+- [Cyberjutsu](https://www.amazon.com.br/Cyberjutsu-Cybersecurity-Modern-Ben-McCarty/dp/1718500548/ref=sr_1_32?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ZEPHUNAH4N34&keywords=no+press+starch&qid=1636285019&sprefix=no+press+starch%2Caps%2C193&sr=8-32&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74)
+- [The Tangled Web](https://www.amazon.com.br/Tangled-Web-Securing-Modern-Applications/dp/1593273886/ref=sr_1_17?keywords=web+security&qid=1636284781&sprefix=web+se%2Caps%2C208&sr=8-17&ufe=app_do%3Aamzn1.fos.4bddec23-2dcf-4403-8597-e1a02442043d)
+- [Secure by Design](https://www.amazon.com.br/Secure-Design_p1-Dan-Bergh-Johnsson/dp/1617294357/ref=sr_1_3?keywords=secure+code&qid=1636284633&sprefix=secure+%2Caps%2C233&sr=8-3&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6)
+- [Securing DevOps](https://www.amazon.com.br/Securing-DevOps-Safe-services-Julien-Vehent/dp/1617294136/ref=sr_1_32?keywords=secure+code&qid=1636284684&sprefix=secure+%2Caps%2C233&sr=8-32&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6)
+- [Web Application Security](https://www.amazon.com.br/Web-Application-Security-Andrew-Hoffman/dp/1492053112/ref=sr_1_3?keywords=web+security&qid=1636284754&sprefix=web+se%2Caps%2C208&sr=8-3&ufe=app_do%3Aamzn1.fos.4bddec23-2dcf-4403-8597-e1a02442043d)
+- [Secure and Resilient Software](https://www.amazon.com.br/Secure-Resilient-Software-Requirements-Testing/dp/0367382148/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=14T7YC86JN6CC&keywords=Secure+and+Resilient+Software&qid=1636285468&sprefix=secure+and+resilient+software+%2Caps%2C382&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
+- [Building Secure and Reliable Systems](https://www.amazon.com.br/s?k=no+press+starch&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ZEPHUNAH4N34&sprefix=no+press+starch%2Caps%2C193&ref=nb_sb_noss)
 
 #### Cursos 
 - [UDEMY - Desenvolvimento Seguro de Software](https://www.udemy.com/course/desenvolvimento-seguro-de-software/)
