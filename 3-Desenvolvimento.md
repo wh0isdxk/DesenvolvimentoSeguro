@@ -23,14 +23,14 @@ Aqui também podemos usar o **OWASP TOP 10** para prevenir vulnerabilidades que 
 
 Podemos incluir alguns controles que contribuirão para que o nosso código seja seguro, além de já definir os recursos de segurança que foram feitos no passo anterior. 
 
-O uso de Frameworks e Bibliotecas seguras, e também sempre mantê-las atualizadas afim de evitar novas vulnerabilidades. Entretanto tenha em mente que não se deve considerar que por um framework esta *up-to-date* ele está livre de vulnerabilidades. É necessário sempre mitigar ataques durante o design da aplicação. Assumir que vulnerabilidades seriam evitadas ao se manter estes frameworks atualizadas seria errado por dois motivos:
+O uso de Frameworks e Bibliotecas seguras, e também sempre mantê-las atualizadas afim de evitar novas vulnerabilidades. Entretanto é nessário ter em mente que não se deve considerar que por um framework esta *up-to-date* ele está livre de vulnerabilidades. É necessário sempre mitigar ataques durante o design da aplicação. Assumir que vulnerabilidades seriam evitadas ao se manter estes frameworks atualizadas seria errado por dois motivos:
 
 - Boa parte das vulnerabilidades encontradas são devido ao design da aplicação e independente do framework ou linguagem utilizados.
 - Muitos desses frameworks utilizam pacotes e plug-ins que não necessariamente passaram por um processo rigoroso de revisão em segurança.
 
 Ref.: 👆🏼 The web application hackers handbook
 
-Garantir a política de mínimo acesso, e que esse acesso seja seguro, ao Banco de Dados. Aqui também vale ressaltar que, se há o tráfego desses dados, é importante que eles sejam feitos de forma segura, encriptados. Aqui vale ressaltar também, que o código fonte deve estar em um lugar seguro e é importsnte validar que não há nenhum escape de dados. 
+Garantir a política de mínimo acesso, e que esse acesso seja seguro, ao Banco de Dados. Aqui também vale ressaltar que, se há o tráfego desses dados, é importante que eles sejam feitos de forma segura, encriptados. Aqui vale ressaltar também, que o código fonte deve estar em um lugar seguro e é importante validar que não há nenhum escape de dados. 
 
 Outro ponto é a implementação de logs de segurança e monitoramento, além de garantir o controle de performance, você passa a ter visibilidade do seu sistema, dessa forma detectando qualquer comportamento estranho e/ou pessoas más intencionadas que possam tentar subir códigos maliciosos. 
 
@@ -80,6 +80,8 @@ se tornará...
 
 <script>alert(document.cookie)</script>
 ```
+
+É possivel observar que da mesma forma vista em *Reject Known Bad* não poderá nunca garantir que todos os casos estarão cobertos todas as possiveis entradas.
 
 ### *Boundary validation*
 
