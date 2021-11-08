@@ -23,7 +23,7 @@ Aqui também podemos usar o **OWASP TOP 10** para prevenir vulnerabilidades que 
 
 Podemos incluir alguns controles que contribuirão para que o nosso código seja seguro, além de já definir os recursos de segurança que foram feitos no passo anterior. 
 
-O uso de Frameworks e Bibliotecas seguras, e também sempre mantê-las atualizadas afim de evitar novas vulnerabilidades. Entretanto é nessário ter em mente que não se deve considerar que por um framework esta *up-to-date* ele está livre de vulnerabilidades. É necessário sempre mitigar ataques durante o design da aplicação. Assumir que vulnerabilidades seriam evitadas ao se manter estes frameworks atualizadas seria errado por dois motivos:
+O uso de Frameworks e Bibliotecas seguras, e também sempre mantê-las atualizadas afim de evitar novas vulnerabilidades. Entretanto é necessário ter em mente que não se deve considerar que por um framework esta *up-to-date* ele está livre de vulnerabilidades. É necessário sempre mitigar ataques durante o design da aplicação. Assumir que vulnerabilidades seriam evitadas ao se manter estes frameworks atualizadas seria errado por dois motivos:
 
 - Boa parte das vulnerabilidades encontradas são devido ao design da aplicação e independente do framework ou linguagem utilizados.
 - Muitos desses frameworks utilizam pacotes e plug-ins que não necessariamente passaram por um processo rigoroso de revisão em segurança.
