@@ -36,7 +36,7 @@ Outro ponto é a implementação de logs de segurança e monitoramento, além de
 
 O tratamento de erros e excessões também é um tópico importante, se ele não for feito da maneira correta, uma pessoa pode facilmente detectar o problema e tentar escalar alguma vulnerabilidade em cima disso.
 
-## Lidando com entradas fornecidas pelo usuário.
+## **Lidando com entradas fornecidas pelo usuário**
 
 Existe uma importante concepção que deve ser considerada para qualquer um que trabalhe com sistemas de software que possuem interação com o usuário: **toda entrada fornecida deve ser considerada uma tentativa de ataque.** Grande parte dos ataques contra aplicações envolvem submeter entradas inesperadas gerando resultados que não eram os esperados pelos desenvolvedores. Consequentemente estes resultados podem entregar não somente dados, privilégios e informações confidenciais, mas em último caso abrir uma porta de entrada para atacantes aos servidores. Abaixo estão as possíveis abordagens que podem ser utilizadas.
 
@@ -87,7 +87,38 @@ se tornará...
 
 É o processo de validação e sanitização da entrada a cada passo de componente. Significa que o frontend não confiaria na entrada fornecido pelo usuário, fazendo-o obedecer um padrão. O backend ao receber a entrada também fará uma sanitização e uma validação da entrada. Ao passar para a camada de dados, o banco também parametrizará o dado de entrada. Ou seja, basicamente a cada "passagem de bastão" o componente anterior e posterior faz uma validação e sanitização da saída/entrada. Esta é uma das forma mais eficaz de se previnir que entradas maliciosas sejam recebidas por cada um de seus componentes visto que se estaria modularizando as validações de acordo com cada tipo de componente (e.g.: frontend, backend, banco de dados).
 
-Trazendo em tópicos, seguem as checklists da OWASP que trazem pontos super importantes para validação em cada etapa. 
+## **Mitigando e identificando ataques**
+
+De forma básica, existem 4 formas de se mitigar ataques:
+
+- Previnir que errors cheguem até o usuário final (Handling errors)
+- Manter logs para verificação de atividade suspeita
+- Ao se detectar a atividade suspeita alertar os administradores do sistema para que uma ação seja tomada. O ideal é que isso seja algo já programaticamente executado dada uma detecção de possível ataque.
+- Contra medidas aos atacantes. (HTTP 429, Reduzir a velocidade de resposta do servidor)
+
+A melhor arma contra atacantes é frustar o mais rápido possível qualquer tentativa de captura de informação.
+
+### *Handling errors*
+
+Todo e qualquer erro que acontece no sistema **não pode** ser exibido ao usuário final. Exibir qualquer mensagem de erro ao usuário é como se entregássemos à atacantes a dica de como o sistema funciona. E qualquer informação a pessoas dedicadas a escalar vulnerabilidades é um passo a menos a ser cumprido. Mensagens de erros muito "verbosas" podem certamente conceder bastante informação. Por isso é sempre necessário que toda e qualquer exceção de seja tratada de forma segura e encapsulada. Exceções SQL que exibem colunas e/ou tabelas de bancos de dados não deveriam nunca serem lançadas como resposta de uma requisição.
+
+### *Logs*
+
+São uma das ferramentas mais úteis na hora de detectar mal uso de sistemas por atacantes. A mudança de um valor dado por uma _tag hidden_ em HTML que nunca deveria alterada e ser passada ao backend deve acender um alerta vermelho no sistema. É importante também aqui lembrar que não devemos confiar nas entradas fornecidas entre componentes. Considerar que uma _tag_ HTML por estar escondida sempre fornecerá uma entrada pré-definida não é uma boa prática. Outro exemplo que podemos dar também é quando existem muitas requisições de tokens de autenticação para usuários diferentes através de um mesmo dispositivo. Se todas essas informações que trafegam através do sistema estiveram presentes em logs bem estruturados, detecções de invasores e atacantes serão fáceis de se identificar e automatizar.
+
+### Alertando os admins
+
+Existindo logs estruturados e bem definidos o alerta aos sysadmins é trivial. Qualquer detecção anormal de: tentativa de login, reset de senha, muitos requests ao servidor, parâmetros incorretos sendo passados ao servidor, qualquer atividade que não seria possível de acontecer por um usuário comum deve ser alertada como possível tentativa de ataque.
+
+Geralmente esses alertas se baseiam em um cruzamento de anomalia e assinaturas, sendo o segundo um conjunto de padrões geralmente usadas para ataques, como por exemplo o visto anteriormente no XSS.
+
+### Reagindo a ataques: Contramedidas
+
+**Qualquer medida que gere frustração aos atacantes é bem vinda.** Seja reduzir a velocidade de resposta do servidor, seja recusar requests lançando HTTP 429. Qualquer contramedida que frustre a tentativa de escalar uma vulnerabilidade causará impacto ao atacante fazendo-o não querer prosseguir. Como dito anteriormente gerar frustração ao atacante é a melhor arma de defesa.
+
+## **Checklist OWASP**
+
+Trazendo em tópicos, seguem as checklists da OWASP que trazem pontos super importantes para validação em cada etapa.
 
 - Controle de Acessos 
 - Validação dos Dados de Entrada
