@@ -21,6 +21,8 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 
 <br />
 
+[**Comece por aqui!**](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md)
+
 ### :large_blue_circle:  Planejamento
 
 - [Threat Model](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/1-Planejamento.md#threat-model)
