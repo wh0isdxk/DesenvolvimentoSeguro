@@ -63,13 +63,13 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 - [Security Champions](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/SecurityChampions.md#security-champions)
 - Treinamentos de equipe 
 
-#### Roadmap 
+#### :world_map:	 Roadmap 
 
-#### Links Interessantes 
+#### :link:	Links Interessantes 
 - OWASP 
 - NIST SSDF
 
-#### Livros 
+#### :books:	Livros 
 *PT BR*
 - [Segurança para Desenvolvedores Web](https://www.amazon.com.br/Seguran%C3%A7a-Para-Desenvolvedores-Web-JavaScript/dp/8575224840/ref=sr_1_21?keywords=web+security&qid=1636284781&sprefix=web+se%2Caps%2C208&sr=8-21&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
 - [Código Limpo](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ETDZUTWLKJX7&keywords=codigo+limpo&qid=1636284943&sprefix=codigo+limpo+%2Caps%2C193&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
@@ -85,13 +85,13 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 - [Secure and Resilient Software](https://www.amazon.com.br/Secure-Resilient-Software-Requirements-Testing/dp/0367382148/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=14T7YC86JN6CC&keywords=Secure+and+Resilient+Software&qid=1636285468&sprefix=secure+and+resilient+software+%2Caps%2C382&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
 - [Building Secure and Reliable Systems](https://www.amazon.com.br/s?k=no+press+starch&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ZEPHUNAH4N34&sprefix=no+press+starch%2Caps%2C193&ref=nb_sb_noss)
 
-#### Cursos 
+#### :tv:	Cursos 
 - [UDEMY - Desenvolvimento Seguro de Software](https://www.udemy.com/course/desenvolvimento-seguro-de-software/)
 - [UDEMY - Desenvolvimento Seguro de Sotfware Avançado](https://www.udemy.com/course/desenvolvimento-seguro-de-software-avancado/)
 - [GoHacking - Secure Coding and DevSecOps](https://gohacking.com.br/curso/gohacking-secure-coding-and-devsecops)
 - [Coursera - Secure Coding Pratices](https://www.coursera.org/specializations/secure-coding-practices)
 
-#### Security Champions 
+#### :trophy:	Security Champions 
 *Textos*
 - [How to build an effective Security Champions Program](https://safecode.org/how-to-build-an-effective-security-champions-program/)
 - [Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)
@@ -101,16 +101,16 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 - [BlackHat - SDL at Scale: Growing Security Champions](https://www.youtube.com/watch?v=gpGl3guuyDw)
 - [Conviso - A cultura do Security Champion em Application Security](https://www.youtube.com/watch?v=-BRG-6eh2bE)
 
-#### Vídeos 
+#### :video_camera:	Vídeos 
 - [Acadi-TI - Semana do Desenvolvimento Seguro](https://www.youtube.com/watch?v=6Zm5_rcf6EQ)
 - [DevSecOps Podcast - Por que Desenvolvimento Seguro?](https://www.youtube.com/watch?v=95K_fDDUSnc)
 - [GoHacking - Desmistificando Desenvolvimento Seguro e DevSecOps](https://www.youtube.com/watch?v=oZc0SNpdOaI)
 - [Roadsec - OWASP](https://www.youtube.com/watch?v=erwu5LsHJQc)
 - [Conviso - Owasp Top 10 2021, Priorização dos principais riscos e a segurança no design](https://www.youtube.com/watch?v=A0K7f0jDphQ)
 
-#### Artigos 
+#### :page_with_curl:	Artigos 
 
-#### Linguagens 
+#### :desktop_computer:	Linguagens 
 
 - [Golang](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/GolangSecurity.md)
 - Go 
