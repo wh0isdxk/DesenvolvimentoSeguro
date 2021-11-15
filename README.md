@@ -17,11 +17,16 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 - Na inserção de falhas durante a manutenção ou a atualização."
   
 [- OWASP Secure Coding Practices  Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/migrated_content)
-
-
 <br />
 
-[**Comece por aqui!**](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md)
+### Comece por aqui: 
+
+- [O que é Desenvolvimento Seguro?](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#o-que-%C3%A9-desenvolvimento-seguro)
+- [Porque Desenvolvimento Seguro?](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#porque-desenvolvimento-seguro)
+- [Quais os pilares do Desenvolvimento Seguro?](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#quais-os-pilares-do-desenvolvimento-seguro)
+- [Por onde começar?](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#por-onde-come%C3%A7ar)
+- [Shift Left](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#shift-left)
+
 
 ### :large_blue_circle:  Planejamento
 
