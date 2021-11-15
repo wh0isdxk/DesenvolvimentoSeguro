@@ -19,7 +19,7 @@ Principios e Boas Práticas sobre Desenvolvimento Seguro.
 [- OWASP Secure Coding Practices  Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/migrated_content)
 <br />
 
-### Comece por aqui: 
+### :point_right:	Comece por aqui: 
 
 - [O que é Desenvolvimento Seguro?](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#o-que-%C3%A9-desenvolvimento-seguro)
 - [Porque Desenvolvimento Seguro?](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#porque-desenvolvimento-seguro)
