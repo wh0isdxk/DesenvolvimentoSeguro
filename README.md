@@ -48,7 +48,10 @@
   
 ### :red_circle:  Testes
 
-- SAST e DAST 
+- SCA
+- SAST
+- DAST
+- IAST
 - Pentest 
   
 ### :yellow_circle:  Deploy
@@ -67,7 +70,8 @@
 #### :world_map:	 Roadmap 
 
 #### :link:	Links Interessantes 
-- OWASP 
+- OWASP
+- NIST 800-190 Application Container Security Risk Checklist
 - NIST SSDF
 
 #### :books:	Livros 
