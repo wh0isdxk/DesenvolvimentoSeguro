@@ -19,15 +19,19 @@ Ferramentas opensource:
     > Horusec
     > LGTM
     > ScoutSuite
-
+    > HUSKYCI
+  
 Ferramentas pagas:
 
     > Github Advanced Security
     > Dependabot Alerts 
     > Veracode
     > Checkmarx CxSAST
-    > Fortify 
-
+    > Fortify
+    
+ Ferramentas com versāo Open Source:
+ 
+    > Snyk Code
 
 Nesse processo de análise, tanto na parte automatizada quanto na análise manual, alguns pontos são importantes de se considerar: 
 
@@ -36,4 +40,10 @@ Nesse processo de análise, tanto na parte automatizada quanto na análise manua
     3. Códigos Privilegiados 
     4. Força das Criptografias que estão sendo utilizadas 
     5. Cuidados com os comentários feitos no código 
-    6. Vazamento de algum tipo de secret ou dados sensíveis 
+    6. Vazamento de algum tipo de secret ou dados sensíveis
+    
+Exemplo de um pipeline com checagens de segurança
+
+<img width="608" alt="DevSecOps_Toolchain" src="https://user-images.githubusercontent.com/46326549/180659993-140f6a44-d140-49ec-982b-6cd23c43b21f.png">
+
+
