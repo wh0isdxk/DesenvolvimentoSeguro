@@ -125,4 +125,4 @@ Ficamos muito felizes quando o projeto recebe novas contribuições, sempre prec
 Para adicionar novas referências ou materiais, você tem duas alternativas:
 
 - Criar uma nova issue
-- Faça um fork do projeto e crie uma nova branch. Mais detalhes [aqui](https://help.github.com/pt/enterprise/2.17/user/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
+- Faça um fork do projeto e crie uma nova branch para realizar um pull request. Mais detalhes [aqui](https://help.github.com/pt/enterprise/2.17/user/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
