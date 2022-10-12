@@ -91,6 +91,7 @@
 - [UDEMY - Desenvolvimento Seguro de Sotfware Avançado](https://www.udemy.com/course/desenvolvimento-seguro-de-software-avancado/)
 - [GoHacking - Secure Coding and DevSecOps](https://gohacking.com.br/curso/gohacking-secure-coding-and-devsecops)
 - [Coursera - Secure Coding Pratices](https://www.coursera.org/specializations/secure-coding-practices)
+- [DesecSecurity - Introdução ao Pentest na prática](https://desecsecurity.com/curso/introducao-pentest)
 
 #### :trophy:	Security Champions 
 *Textos*
