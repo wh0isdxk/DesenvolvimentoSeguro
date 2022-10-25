@@ -90,6 +90,11 @@
 - [Secure and Resilient Software](https://www.amazon.com.br/Secure-Resilient-Software-Requirements-Testing/dp/0367382148/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=14T7YC86JN6CC&keywords=Secure+and+Resilient+Software&qid=1636285468&sprefix=secure+and+resilient+software+%2Caps%2C382&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
 - [Building Secure and Reliable Systems](https://www.amazon.com.br/s?k=no+press+starch&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1ZEPHUNAH4N34&sprefix=no+press+starch%2Caps%2C193&ref=nb_sb_noss)
 
+#### :teacher:	Exercícios
+- [secDevLabs](https://github.com/globocom/secDevLabs/) - Variados sistemas vulneráveis que você pode rodar localmente, encontrar as falhas no código e submeter a mitigação para a comunidade dar dicas e corrigir sua implementação, muito bom para treinar programação + segurança.
+- [OWASP JuiceShop](https://owasp-juice.shop/) - E-commerce vulneravel com mais de 80 desafios para você treinar quais são as OWASP Top 10 vulnerabilidades e aprender a explora-las de uma forma gameficada.
+
+
 #### :tv:	Cursos 
 - [UDEMY - Desenvolvimento Seguro de Software](https://www.udemy.com/course/desenvolvimento-seguro-de-software/)
 - [UDEMY - Desenvolvimento Seguro de Sotfware Avançado](https://www.udemy.com/course/desenvolvimento-seguro-de-software-avancado/)
